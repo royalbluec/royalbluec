@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<img src='https://github-readme-stats.vercel.app/api?username=royalbluee' />
+<img src='https://github-readme-stats.vercel.app/api?username=royalbluec' />
 
 <!--
-**royalbluee/royalbluee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**royalbluec/royalbluec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
